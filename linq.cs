@@ -183,3 +183,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add feature — iteration 30 (2026)
 - Add feature — iteration 31 (2026)
 - Update docs — iteration 38 (2026)
+- Document usage — iteration 43 (2026)
