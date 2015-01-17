@@ -14,3 +14,4 @@ public static class Seed
 - Add example — iteration 11 (2015)
 - Optimize performance — iteration 12 (2015)
 - Fix typo — iteration 26 (2015)
+- Update docs — iteration 27 (2015)
