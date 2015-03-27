@@ -18,3 +18,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update config — iteration 34 (2015)
 - Minor cleanup — iteration 40 (2015)
 - Refactor module — iteration 44 (2015)
+- Polish code — iteration 45 (2015)
