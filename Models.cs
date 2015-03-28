@@ -19,3 +19,4 @@ public static class Seed
 - Optimize performance — iteration 38 (2015)
 - Improve naming — iteration 42 (2015)
 - Add validation — iteration 51 (2015)
+- Add example — iteration 52 (2015)
