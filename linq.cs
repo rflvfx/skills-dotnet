@@ -11,3 +11,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add tests — iteration 15 (2015)
 - Minor cleanup — iteration 16 (2015)
 - Improve error handling — iteration 19 (2015)
+- Tweak implementation — iteration 21 (2015)
