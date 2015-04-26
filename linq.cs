@@ -9,3 +9,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix typo — iteration 9 (2015)
 - Update config — iteration 13 (2015)
 - Add tests — iteration 15 (2015)
+- Minor cleanup — iteration 16 (2015)
