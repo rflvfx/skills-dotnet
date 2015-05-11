@@ -3,3 +3,4 @@
 - Optimize performance — iteration 20 (2015)
 - Add validation — iteration 22 (2015)
 - Refactor module — iteration 28 (2015)
+- Add example — iteration 31 (2015)
