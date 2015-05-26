@@ -10,3 +10,4 @@ app.Run();
 - Fix edge case — iteration 10 (2015)
 - Update dependencies — iteration 14 (2015)
 - Update dependencies — iteration 17 (2015)
+- Minor cleanup — iteration 18 (2015)
