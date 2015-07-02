@@ -5,3 +5,4 @@
 - Refactor module — iteration 28 (2015)
 - Add example — iteration 31 (2015)
 - Extend coverage — iteration 36 (2015)
+- Minor cleanup — iteration 47 (2015)
