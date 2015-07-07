@@ -14,3 +14,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Tweak implementation — iteration 21 (2015)
 - Add example — iteration 24 (2015)
 - Add feature — iteration 30 (2015)
+- Add example — iteration 33 (2015)
