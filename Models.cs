@@ -15,3 +15,4 @@ public static class Seed
 - Optimize performance — iteration 12 (2015)
 - Fix typo — iteration 26 (2015)
 - Update docs — iteration 27 (2015)
+- Improve error handling — iteration 35 (2015)
