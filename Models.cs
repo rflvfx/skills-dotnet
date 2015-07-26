@@ -20,3 +20,4 @@ public static class Seed
 - Improve naming — iteration 42 (2015)
 - Add validation — iteration 51 (2015)
 - Add example — iteration 52 (2015)
+- Update docs — iteration 55 (2015)
