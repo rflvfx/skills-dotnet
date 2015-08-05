@@ -6,3 +6,4 @@
 - Add example — iteration 31 (2015)
 - Extend coverage — iteration 36 (2015)
 - Minor cleanup — iteration 47 (2015)
+- Fix typo — iteration 54 (2015)
