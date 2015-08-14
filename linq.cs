@@ -6,3 +6,4 @@ var grouped = nums.GroupBy(n => n % 3);
 
 Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add example — iteration 2 (2015)
+- Fix typo — iteration 9 (2015)
