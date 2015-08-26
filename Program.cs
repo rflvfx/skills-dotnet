@@ -11,3 +11,4 @@ app.Run();
 - Update dependencies — iteration 14 (2015)
 - Update dependencies — iteration 17 (2015)
 - Minor cleanup — iteration 18 (2015)
+- Improve error handling — iteration 23 (2015)
