@@ -9,3 +9,4 @@ public static class Seed
     };
 }
 - Tweak implementation — iteration 4 (2015)
+- Update dependencies — iteration 6 (2015)
