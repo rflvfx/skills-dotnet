@@ -17,3 +17,4 @@ public static class Seed
 - Update docs — iteration 27 (2015)
 - Improve error handling — iteration 35 (2015)
 - Optimize performance — iteration 38 (2015)
+- Improve naming — iteration 42 (2015)
