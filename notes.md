@@ -1,1 +1,2 @@
 - Update docs — iteration 1 (2015)
+- Update config — iteration 3 (2015)
