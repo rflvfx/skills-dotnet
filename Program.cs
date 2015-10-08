@@ -17,3 +17,4 @@ app.Run();
 - Fix edge case — iteration 32 (2015)
 - Update config — iteration 37 (2015)
 - Optimize performance — iteration 39 (2015)
+- Add tests — iteration 41 (2015)
