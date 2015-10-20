@@ -8,3 +8,4 @@ public static class Seed
         new User(2, "Bruno", "bruno@dev.io"),
     };
 }
+- Tweak implementation — iteration 4 (2015)
