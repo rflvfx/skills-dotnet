@@ -16,3 +16,4 @@ app.Run();
 - Polish code — iteration 29 (2015)
 - Fix edge case — iteration 32 (2015)
 - Update config — iteration 37 (2015)
+- Optimize performance — iteration 39 (2015)
