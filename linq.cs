@@ -12,3 +12,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Minor cleanup — iteration 16 (2015)
 - Improve error handling — iteration 19 (2015)
 - Tweak implementation — iteration 21 (2015)
+- Add example — iteration 24 (2015)
