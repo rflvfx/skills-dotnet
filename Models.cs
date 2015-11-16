@@ -12,3 +12,4 @@ public static class Seed
 - Update dependencies — iteration 6 (2015)
 - Add tests — iteration 7 (2015)
 - Add example — iteration 11 (2015)
+- Optimize performance — iteration 12 (2015)
