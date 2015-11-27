@@ -5,3 +5,4 @@ var total = nums.Sum();
 var grouped = nums.GroupBy(n => n % 3);
 
 Console.WriteLine($"{total} | {string.Join(",", evens)}");
+- Add example — iteration 2 (2015)
