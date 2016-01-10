@@ -27,3 +27,4 @@ public static class Seed
 - Improve naming — iteration 2 (2016)
 - Minor cleanup — iteration 6 (2016)
 - Update dependencies — iteration 9 (2016)
+- Refactor module — iteration 12 (2016)
