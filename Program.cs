@@ -37,3 +37,4 @@ app.Run();
 - Add validation — iteration 48 (2016)
 - Minor cleanup — iteration 50 (2016)
 - Update config — iteration 51 (2016)
+- Polish code — iteration 52 (2016)
