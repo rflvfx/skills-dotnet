@@ -18,3 +18,4 @@
 - Extend coverage — iteration 29 (2016)
 - Add example — iteration 30 (2016)
 - Update docs — iteration 31 (2016)
+- Document usage — iteration 36 (2016)
