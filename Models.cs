@@ -23,3 +23,4 @@ public static class Seed
 - Update docs — iteration 55 (2015)
 - Update config — iteration 56 (2015)
 - Document usage — iteration 59 (2015)
+- Extend coverage — iteration 1 (2016)
