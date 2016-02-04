@@ -31,3 +31,4 @@ public static class Seed
 - Add feature — iteration 18 (2016)
 - Update config — iteration 19 (2016)
 - Add validation — iteration 20 (2016)
+- Fix typo — iteration 22 (2016)
