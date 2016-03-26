@@ -30,3 +30,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix lint warnings — iteration 37 (2016)
 - Minor cleanup — iteration 38 (2016)
 - Fix typo — iteration 43 (2016)
+- Update docs — iteration 45 (2016)
