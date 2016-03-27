@@ -25,3 +25,4 @@
 - Tweak implementation — iteration 44 (2016)
 - Extend coverage — iteration 47 (2016)
 - Add validation — iteration 54 (2016)
+- Update dependencies — iteration 55 (2016)
