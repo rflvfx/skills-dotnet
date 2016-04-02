@@ -34,3 +34,4 @@ app.Run();
 - Improve naming — iteration 35 (2016)
 - Fix edge case — iteration 41 (2016)
 - Update docs — iteration 46 (2016)
+- Add validation — iteration 48 (2016)
