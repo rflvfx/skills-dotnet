@@ -29,3 +29,4 @@ public static class Seed
 - Update dependencies — iteration 9 (2016)
 - Refactor module — iteration 12 (2016)
 - Add feature — iteration 18 (2016)
+- Update config — iteration 19 (2016)
