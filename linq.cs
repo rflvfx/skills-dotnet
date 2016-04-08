@@ -27,3 +27,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Document usage — iteration 16 (2016)
 - Extend coverage — iteration 28 (2016)
 - Update docs — iteration 34 (2016)
+- Fix lint warnings — iteration 37 (2016)
