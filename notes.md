@@ -20,3 +20,4 @@
 - Update docs — iteration 31 (2016)
 - Document usage — iteration 36 (2016)
 - Polish code — iteration 39 (2016)
+- Polish code — iteration 40 (2016)
