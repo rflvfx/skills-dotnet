@@ -8,3 +8,4 @@
 - Minor cleanup — iteration 47 (2015)
 - Fix typo — iteration 54 (2015)
 - Improve naming — iteration 58 (2015)
+- Update config — iteration 3 (2016)
