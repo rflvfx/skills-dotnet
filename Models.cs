@@ -26,3 +26,4 @@ public static class Seed
 - Extend coverage — iteration 1 (2016)
 - Improve naming — iteration 2 (2016)
 - Minor cleanup — iteration 6 (2016)
+- Update dependencies — iteration 9 (2016)
