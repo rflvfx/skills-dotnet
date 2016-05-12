@@ -25,3 +25,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix lint warnings — iteration 60 (2015)
 - Add example — iteration 7 (2016)
 - Document usage — iteration 16 (2016)
+- Extend coverage — iteration 28 (2016)
