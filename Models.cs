@@ -30,3 +30,4 @@ public static class Seed
 - Refactor module — iteration 12 (2016)
 - Add feature — iteration 18 (2016)
 - Update config — iteration 19 (2016)
+- Add validation — iteration 20 (2016)
