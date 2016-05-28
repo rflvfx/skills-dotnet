@@ -10,3 +10,4 @@
 - Improve naming — iteration 58 (2015)
 - Update config — iteration 3 (2016)
 - Improve error handling — iteration 4 (2016)
+- Optimize performance — iteration 5 (2016)
