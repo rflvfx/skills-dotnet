@@ -26,3 +26,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add example — iteration 7 (2016)
 - Document usage — iteration 16 (2016)
 - Extend coverage — iteration 28 (2016)
+- Update docs — iteration 34 (2016)
