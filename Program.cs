@@ -32,3 +32,4 @@ app.Run();
 - Optimize performance — iteration 27 (2016)
 - Minor cleanup — iteration 32 (2016)
 - Improve naming — iteration 35 (2016)
+- Fix edge case — iteration 41 (2016)
