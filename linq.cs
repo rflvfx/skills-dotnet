@@ -29,3 +29,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update docs — iteration 34 (2016)
 - Fix lint warnings — iteration 37 (2016)
 - Minor cleanup — iteration 38 (2016)
+- Fix typo — iteration 43 (2016)
