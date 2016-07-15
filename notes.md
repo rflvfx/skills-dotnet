@@ -15,3 +15,4 @@
 - Improve error handling — iteration 15 (2016)
 - Update dependencies — iteration 21 (2016)
 - Document usage — iteration 26 (2016)
+- Extend coverage — iteration 29 (2016)
