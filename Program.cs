@@ -27,3 +27,4 @@ app.Run();
 - Improve naming — iteration 13 (2016)
 - Polish code — iteration 14 (2016)
 - Add tests — iteration 17 (2016)
+- Fix typo — iteration 23 (2016)
