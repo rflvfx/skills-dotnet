@@ -26,3 +26,4 @@ app.Run();
 - Add feature — iteration 10 (2016)
 - Improve naming — iteration 13 (2016)
 - Polish code — iteration 14 (2016)
+- Add tests — iteration 17 (2016)
