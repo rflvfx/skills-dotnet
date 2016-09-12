@@ -25,3 +25,4 @@ app.Run();
 - Update docs — iteration 8 (2016)
 - Add feature — iteration 10 (2016)
 - Improve naming — iteration 13 (2016)
+- Polish code — iteration 14 (2016)
