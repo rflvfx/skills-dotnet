@@ -23,3 +23,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add feature — iteration 48 (2015)
 - Add tests — iteration 50 (2015)
 - Fix lint warnings — iteration 60 (2015)
+- Add example — iteration 7 (2016)
