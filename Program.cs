@@ -22,3 +22,4 @@ app.Run();
 - Add feature — iteration 49 (2015)
 - Update docs — iteration 53 (2015)
 - Tweak implementation — iteration 57 (2015)
+- Update docs — iteration 8 (2016)
