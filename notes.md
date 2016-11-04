@@ -13,3 +13,4 @@
 - Optimize performance — iteration 5 (2016)
 - Improve naming — iteration 11 (2016)
 - Improve error handling — iteration 15 (2016)
+- Update dependencies — iteration 21 (2016)
