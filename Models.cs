@@ -32,3 +32,4 @@ public static class Seed
 - Update config — iteration 19 (2016)
 - Add validation — iteration 20 (2016)
 - Fix typo — iteration 22 (2016)
+- Polish code — iteration 24 (2016)
