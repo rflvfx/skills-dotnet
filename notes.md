@@ -23,3 +23,4 @@
 - Polish code — iteration 40 (2016)
 - Add tests — iteration 42 (2016)
 - Tweak implementation — iteration 44 (2016)
+- Extend coverage — iteration 47 (2016)
