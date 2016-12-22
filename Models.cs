@@ -34,3 +34,4 @@ public static class Seed
 - Fix typo — iteration 22 (2016)
 - Polish code — iteration 24 (2016)
 - Add example — iteration 33 (2016)
+- Refactor module — iteration 57 (2016)
