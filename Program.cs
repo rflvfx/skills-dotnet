@@ -28,3 +28,4 @@ app.Run();
 - Polish code — iteration 14 (2016)
 - Add tests — iteration 17 (2016)
 - Fix typo — iteration 23 (2016)
+- Add helper — iteration 25 (2016)
