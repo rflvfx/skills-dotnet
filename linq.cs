@@ -28,3 +28,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Extend coverage — iteration 28 (2016)
 - Update docs — iteration 34 (2016)
 - Fix lint warnings — iteration 37 (2016)
+- Minor cleanup — iteration 38 (2016)
