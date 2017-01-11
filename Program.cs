@@ -44,3 +44,4 @@ app.Run();
 - Extend coverage — iteration 15 (2017)
 - Improve naming — iteration 22 (2017)
 - Add helper — iteration 23 (2017)
+- Add example — iteration 26 (2017)
