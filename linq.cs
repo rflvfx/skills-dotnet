@@ -33,3 +33,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update docs — iteration 45 (2016)
 - Update dependencies — iteration 49 (2016)
 - Minor cleanup — iteration 53 (2016)
+- Refactor module — iteration 1 (2017)
