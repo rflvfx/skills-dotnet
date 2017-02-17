@@ -28,3 +28,4 @@
 - Update dependencies — iteration 55 (2016)
 - Update docs — iteration 56 (2016)
 - Improve error handling — iteration 59 (2016)
+- Add feature — iteration 3 (2017)
