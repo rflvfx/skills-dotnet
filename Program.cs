@@ -39,3 +39,4 @@ app.Run();
 - Update config — iteration 51 (2016)
 - Polish code — iteration 52 (2016)
 - Add feature — iteration 60 (2016)
+- Extend coverage — iteration 6 (2017)
