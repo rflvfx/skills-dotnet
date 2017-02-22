@@ -45,3 +45,4 @@ app.Run();
 - Improve naming — iteration 22 (2017)
 - Add helper — iteration 23 (2017)
 - Add example — iteration 26 (2017)
+- Fix typo — iteration 28 (2017)
