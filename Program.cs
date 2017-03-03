@@ -42,3 +42,4 @@ app.Run();
 - Extend coverage — iteration 6 (2017)
 - Extend coverage — iteration 11 (2017)
 - Extend coverage — iteration 15 (2017)
+- Improve naming — iteration 22 (2017)
