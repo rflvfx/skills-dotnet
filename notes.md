@@ -36,3 +36,4 @@
 - Improve naming — iteration 36 (2017)
 - Add feature — iteration 38 (2017)
 - Update config — iteration 40 (2017)
+- Document usage — iteration 45 (2017)
