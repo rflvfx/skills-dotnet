@@ -47,3 +47,4 @@ app.Run();
 - Add example — iteration 26 (2017)
 - Fix typo — iteration 28 (2017)
 - Refactor module — iteration 33 (2017)
+- Refactor module — iteration 37 (2017)
