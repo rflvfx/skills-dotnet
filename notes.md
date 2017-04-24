@@ -29,3 +29,4 @@
 - Update docs — iteration 56 (2016)
 - Improve error handling — iteration 59 (2016)
 - Add feature — iteration 3 (2017)
+- Add helper — iteration 16 (2017)
