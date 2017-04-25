@@ -46,3 +46,4 @@ public static class Seed
 - Improve error handling — iteration 25 (2017)
 - Add feature — iteration 27 (2017)
 - Update docs — iteration 47 (2017)
+- Add example — iteration 48 (2017)
