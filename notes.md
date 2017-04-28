@@ -41,3 +41,4 @@
 - Refactor module — iteration 49 (2017)
 - Optimize performance — iteration 55 (2017)
 - Document usage — iteration 56 (2017)
+- Fix edge case — iteration 57 (2017)
