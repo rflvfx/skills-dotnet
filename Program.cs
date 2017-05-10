@@ -41,3 +41,4 @@ app.Run();
 - Add feature — iteration 60 (2016)
 - Extend coverage — iteration 6 (2017)
 - Extend coverage — iteration 11 (2017)
+- Extend coverage — iteration 15 (2017)
