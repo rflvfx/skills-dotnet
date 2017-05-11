@@ -51,3 +51,4 @@ app.Run();
 - Add helper — iteration 39 (2017)
 - Refactor module — iteration 42 (2017)
 - Fix typo — iteration 43 (2017)
+- Update config — iteration 52 (2017)
