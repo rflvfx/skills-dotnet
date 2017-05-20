@@ -43,3 +43,4 @@
 - Document usage — iteration 56 (2017)
 - Fix edge case — iteration 57 (2017)
 - Improve error handling — iteration 59 (2017)
+- Add feature — iteration 60 (2017)
