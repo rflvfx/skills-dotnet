@@ -49,3 +49,4 @@ app.Run();
 - Refactor module — iteration 33 (2017)
 - Refactor module — iteration 37 (2017)
 - Add helper — iteration 39 (2017)
+- Refactor module — iteration 42 (2017)
