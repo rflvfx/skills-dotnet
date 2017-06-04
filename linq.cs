@@ -42,3 +42,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update config — iteration 17 (2017)
 - Update docs — iteration 20 (2017)
 - Add feature — iteration 21 (2017)
+- Fix lint warnings — iteration 24 (2017)
