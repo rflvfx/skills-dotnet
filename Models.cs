@@ -40,3 +40,4 @@ public static class Seed
 - Fix typo — iteration 8 (2017)
 - Minor cleanup — iteration 9 (2017)
 - Improve naming — iteration 10 (2017)
+- Tweak implementation — iteration 12 (2017)
