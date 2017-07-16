@@ -47,3 +47,4 @@ public static class Seed
 - Add feature — iteration 27 (2017)
 - Update docs — iteration 47 (2017)
 - Add example — iteration 48 (2017)
+- Refactor module — iteration 51 (2017)
