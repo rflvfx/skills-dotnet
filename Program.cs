@@ -50,3 +50,4 @@ app.Run();
 - Refactor module — iteration 37 (2017)
 - Add helper — iteration 39 (2017)
 - Refactor module — iteration 42 (2017)
+- Fix typo — iteration 43 (2017)
