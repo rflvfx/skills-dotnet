@@ -37,3 +37,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Minor cleanup — iteration 2 (2017)
 - Document usage — iteration 4 (2017)
 - Minor cleanup — iteration 5 (2017)
+- Update dependencies — iteration 13 (2017)
