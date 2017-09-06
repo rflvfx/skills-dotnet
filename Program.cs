@@ -40,3 +40,4 @@ app.Run();
 - Polish code — iteration 52 (2016)
 - Add feature — iteration 60 (2016)
 - Extend coverage — iteration 6 (2017)
+- Extend coverage — iteration 11 (2017)
