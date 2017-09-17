@@ -43,3 +43,4 @@ public static class Seed
 - Tweak implementation — iteration 12 (2017)
 - Fix typo — iteration 18 (2017)
 - Polish code — iteration 19 (2017)
+- Improve error handling — iteration 25 (2017)
