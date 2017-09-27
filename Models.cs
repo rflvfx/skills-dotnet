@@ -38,3 +38,4 @@ public static class Seed
 - Polish code — iteration 58 (2016)
 - Document usage — iteration 7 (2017)
 - Fix typo — iteration 8 (2017)
+- Minor cleanup — iteration 9 (2017)
