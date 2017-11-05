@@ -31,3 +31,4 @@
 - Add feature — iteration 3 (2017)
 - Add helper — iteration 16 (2017)
 - Minor cleanup — iteration 30 (2017)
+- Improve error handling — iteration 32 (2017)
