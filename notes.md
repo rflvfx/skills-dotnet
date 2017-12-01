@@ -42,3 +42,4 @@
 - Optimize performance — iteration 55 (2017)
 - Document usage — iteration 56 (2017)
 - Fix edge case — iteration 57 (2017)
+- Improve error handling — iteration 59 (2017)
