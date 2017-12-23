@@ -39,3 +39,4 @@ public static class Seed
 - Document usage — iteration 7 (2017)
 - Fix typo — iteration 8 (2017)
 - Minor cleanup — iteration 9 (2017)
+- Improve naming — iteration 10 (2017)
