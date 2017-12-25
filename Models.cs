@@ -45,3 +45,4 @@ public static class Seed
 - Polish code — iteration 19 (2017)
 - Improve error handling — iteration 25 (2017)
 - Add feature — iteration 27 (2017)
+- Update docs — iteration 47 (2017)
