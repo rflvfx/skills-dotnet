@@ -46,3 +46,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update dependencies — iteration 29 (2017)
 - Tweak implementation — iteration 31 (2017)
 - Add helper — iteration 34 (2017)
+- Extend coverage — iteration 41 (2017)
