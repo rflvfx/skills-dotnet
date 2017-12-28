@@ -49,3 +49,4 @@ public static class Seed
 - Add example — iteration 48 (2017)
 - Refactor module — iteration 51 (2017)
 - Extend coverage — iteration 53 (2017)
+- Fix lint warnings — iteration 54 (2017)
