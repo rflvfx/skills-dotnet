@@ -56,3 +56,4 @@ public static class Seed
 - Update config — iteration 15 (2018)
 - Add tests — iteration 18 (2018)
 - Fix typo — iteration 20 (2018)
+- Add helper — iteration 21 (2018)
