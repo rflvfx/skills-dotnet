@@ -68,3 +68,4 @@ public static class Seed
 - Improve error handling — iteration 48 (2018)
 - Update config — iteration 52 (2018)
 - Add example — iteration 54 (2018)
+- Add tests — iteration 55 (2018)
