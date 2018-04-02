@@ -62,3 +62,4 @@ public static class Seed
 - Fix lint warnings — iteration 30 (2018)
 - Fix lint warnings — iteration 39 (2018)
 - Add example — iteration 40 (2018)
+- Add example — iteration 45 (2018)
