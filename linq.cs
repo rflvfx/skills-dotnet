@@ -54,3 +54,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Minor cleanup — iteration 12 (2018)
 - Improve naming — iteration 13 (2018)
 - Document usage — iteration 24 (2018)
+- Document usage — iteration 29 (2018)
