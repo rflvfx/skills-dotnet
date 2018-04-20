@@ -67,3 +67,4 @@ public static class Seed
 - Add helper — iteration 47 (2018)
 - Improve error handling — iteration 48 (2018)
 - Update config — iteration 52 (2018)
+- Add example — iteration 54 (2018)
