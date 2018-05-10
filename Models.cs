@@ -54,3 +54,4 @@ public static class Seed
 - Fix lint warnings — iteration 8 (2018)
 - Extend coverage — iteration 9 (2018)
 - Update config — iteration 15 (2018)
+- Add tests — iteration 18 (2018)
