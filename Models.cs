@@ -59,3 +59,4 @@ public static class Seed
 - Add helper — iteration 21 (2018)
 - Add example — iteration 26 (2018)
 - Fix edge case — iteration 28 (2018)
+- Fix lint warnings — iteration 30 (2018)
