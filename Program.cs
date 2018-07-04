@@ -62,3 +62,4 @@ app.Run();
 - Add feature — iteration 23 (2018)
 - Add tests — iteration 25 (2018)
 - Add example — iteration 27 (2018)
+- Fix lint warnings — iteration 31 (2018)
