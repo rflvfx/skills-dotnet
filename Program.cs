@@ -54,3 +54,4 @@ app.Run();
 - Update config — iteration 52 (2017)
 - Add helper — iteration 58 (2017)
 - Fix lint warnings — iteration 1 (2018)
+- Add helper — iteration 3 (2018)
