@@ -65,3 +65,4 @@ public static class Seed
 - Add example — iteration 45 (2018)
 - Fix lint warnings — iteration 46 (2018)
 - Add helper — iteration 47 (2018)
+- Improve error handling — iteration 48 (2018)
