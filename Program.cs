@@ -57,3 +57,4 @@ app.Run();
 - Add helper — iteration 3 (2018)
 - Fix edge case — iteration 4 (2018)
 - Fix typo — iteration 14 (2018)
+- Improve naming — iteration 19 (2018)
