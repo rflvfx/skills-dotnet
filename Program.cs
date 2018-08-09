@@ -58,3 +58,4 @@ app.Run();
 - Fix edge case — iteration 4 (2018)
 - Fix typo — iteration 14 (2018)
 - Improve naming — iteration 19 (2018)
+- Add example — iteration 22 (2018)
