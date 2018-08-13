@@ -49,3 +49,4 @@
 - Fix edge case — iteration 7 (2018)
 - Add validation — iteration 16 (2018)
 - Polish code — iteration 17 (2018)
+- Extend coverage — iteration 34 (2018)
