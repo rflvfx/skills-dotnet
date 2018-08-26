@@ -56,3 +56,4 @@ app.Run();
 - Fix lint warnings — iteration 1 (2018)
 - Add helper — iteration 3 (2018)
 - Fix edge case — iteration 4 (2018)
+- Fix typo — iteration 14 (2018)
