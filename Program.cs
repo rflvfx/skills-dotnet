@@ -65,3 +65,4 @@ app.Run();
 - Fix lint warnings — iteration 31 (2018)
 - Refactor module — iteration 32 (2018)
 - Fix lint warnings — iteration 33 (2018)
+- Add helper — iteration 37 (2018)
