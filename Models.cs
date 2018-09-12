@@ -58,3 +58,4 @@ public static class Seed
 - Fix typo — iteration 20 (2018)
 - Add helper — iteration 21 (2018)
 - Add example — iteration 26 (2018)
+- Fix edge case — iteration 28 (2018)
