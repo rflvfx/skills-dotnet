@@ -51,3 +51,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add helper — iteration 50 (2017)
 - Improve naming — iteration 10 (2018)
 - Optimize performance — iteration 11 (2018)
+- Minor cleanup — iteration 12 (2018)
