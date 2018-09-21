@@ -71,3 +71,4 @@ public static class Seed
 - Add tests — iteration 55 (2018)
 - Add example — iteration 56 (2018)
 - Add validation — iteration 58 (2018)
+- Fix edge case — iteration 60 (2018)
