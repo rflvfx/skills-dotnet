@@ -67,3 +67,4 @@ app.Run();
 - Fix lint warnings — iteration 33 (2018)
 - Add helper — iteration 37 (2018)
 - Improve naming — iteration 42 (2018)
+- Add helper — iteration 44 (2018)
