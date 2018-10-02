@@ -50,3 +50,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add tests — iteration 44 (2017)
 - Add helper — iteration 50 (2017)
 - Improve naming — iteration 10 (2018)
+- Optimize performance — iteration 11 (2018)
