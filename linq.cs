@@ -49,3 +49,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Extend coverage — iteration 41 (2017)
 - Add tests — iteration 44 (2017)
 - Add helper — iteration 50 (2017)
+- Improve naming — iteration 10 (2018)
