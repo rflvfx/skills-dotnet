@@ -47,3 +47,4 @@
 - Document usage — iteration 5 (2018)
 - Improve error handling — iteration 6 (2018)
 - Fix edge case — iteration 7 (2018)
+- Add validation — iteration 16 (2018)
