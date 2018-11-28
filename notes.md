@@ -52,3 +52,4 @@
 - Extend coverage — iteration 34 (2018)
 - Update config — iteration 36 (2018)
 - Add example — iteration 38 (2018)
+- Add tests — iteration 43 (2018)
