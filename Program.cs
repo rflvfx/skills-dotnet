@@ -66,3 +66,4 @@ app.Run();
 - Refactor module — iteration 32 (2018)
 - Fix lint warnings — iteration 33 (2018)
 - Add helper — iteration 37 (2018)
+- Improve naming — iteration 42 (2018)
