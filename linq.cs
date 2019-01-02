@@ -67,3 +67,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add helper — iteration 15 (2019)
 - Refactor module — iteration 16 (2019)
 - Add validation — iteration 20 (2019)
+- Optimize performance — iteration 21 (2019)
