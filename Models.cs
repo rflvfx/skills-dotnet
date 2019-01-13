@@ -77,3 +77,4 @@ public static class Seed
 - Document usage — iteration 5 (2019)
 - Add tests — iteration 11 (2019)
 - Update dependencies — iteration 18 (2019)
+- Update config — iteration 25 (2019)
