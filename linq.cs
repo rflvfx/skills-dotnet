@@ -62,3 +62,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update config — iteration 53 (2018)
 - Optimize performance — iteration 57 (2018)
 - Add feature — iteration 59 (2018)
+- Add feature — iteration 6 (2019)
