@@ -72,3 +72,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Optimize performance — iteration 31 (2019)
 - Add example — iteration 33 (2019)
 - Update docs — iteration 41 (2019)
+- Improve error handling — iteration 42 (2019)
