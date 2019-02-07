@@ -80,3 +80,4 @@ public static class Seed
 - Update config — iteration 25 (2019)
 - Extend coverage — iteration 28 (2019)
 - Minor cleanup — iteration 34 (2019)
+- Refactor module — iteration 36 (2019)
