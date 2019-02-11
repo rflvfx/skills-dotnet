@@ -74,3 +74,4 @@ public static class Seed
 - Fix edge case — iteration 60 (2018)
 - Fix typo — iteration 1 (2019)
 - Optimize performance — iteration 2 (2019)
+- Document usage — iteration 5 (2019)
