@@ -75,3 +75,4 @@ public static class Seed
 - Fix typo — iteration 1 (2019)
 - Optimize performance — iteration 2 (2019)
 - Document usage — iteration 5 (2019)
+- Add tests — iteration 11 (2019)
