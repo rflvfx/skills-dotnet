@@ -60,3 +60,4 @@
 - Add validation — iteration 9 (2019)
 - Improve naming — iteration 12 (2019)
 - Improve error handling — iteration 14 (2019)
+- Update dependencies — iteration 17 (2019)
