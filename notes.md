@@ -54,3 +54,4 @@
 - Add example — iteration 38 (2018)
 - Add tests — iteration 43 (2018)
 - Polish code — iteration 50 (2018)
+- Add validation — iteration 3 (2019)
