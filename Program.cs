@@ -68,3 +68,4 @@ app.Run();
 - Add helper — iteration 37 (2018)
 - Improve naming — iteration 42 (2018)
 - Add helper — iteration 44 (2018)
+- Extend coverage — iteration 8 (2019)
