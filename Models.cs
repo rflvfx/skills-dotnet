@@ -76,3 +76,4 @@ public static class Seed
 - Optimize performance — iteration 2 (2019)
 - Document usage — iteration 5 (2019)
 - Add tests — iteration 11 (2019)
+- Update dependencies — iteration 18 (2019)
