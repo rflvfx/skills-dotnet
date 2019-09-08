@@ -72,3 +72,4 @@ app.Run();
 - Update dependencies — iteration 10 (2019)
 - Add validation — iteration 23 (2019)
 - Update dependencies — iteration 29 (2019)
+- Fix edge case — iteration 30 (2019)
