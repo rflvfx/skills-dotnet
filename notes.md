@@ -61,3 +61,4 @@
 - Improve naming — iteration 12 (2019)
 - Improve error handling — iteration 14 (2019)
 - Update dependencies — iteration 17 (2019)
+- Optimize performance — iteration 19 (2019)
