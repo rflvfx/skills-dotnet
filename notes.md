@@ -56,3 +56,4 @@
 - Polish code — iteration 50 (2018)
 - Add validation — iteration 3 (2019)
 - Fix edge case — iteration 4 (2019)
+- Add example — iteration 7 (2019)
