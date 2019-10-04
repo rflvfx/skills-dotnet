@@ -68,3 +68,4 @@
 - Polish code — iteration 37 (2019)
 - Add feature — iteration 38 (2019)
 - Add tests — iteration 43 (2019)
+- Extend coverage — iteration 52 (2019)
