@@ -59,3 +59,4 @@
 - Add example — iteration 7 (2019)
 - Add validation — iteration 9 (2019)
 - Improve naming — iteration 12 (2019)
+- Improve error handling — iteration 14 (2019)
