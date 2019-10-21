@@ -66,3 +66,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix typo — iteration 13 (2019)
 - Add helper — iteration 15 (2019)
 - Refactor module — iteration 16 (2019)
+- Add validation — iteration 20 (2019)
