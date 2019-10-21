@@ -58,3 +58,4 @@
 - Fix edge case — iteration 4 (2019)
 - Add example — iteration 7 (2019)
 - Add validation — iteration 9 (2019)
+- Improve naming — iteration 12 (2019)
