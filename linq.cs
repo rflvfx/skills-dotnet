@@ -1,0 +1,7 @@
+var nums = Enumerable.Range(1, 10);
+
+var evens = nums.Where(n => n % 2 == 0).ToList();
+var total = nums.Sum();
+var grouped = nums.GroupBy(n => n % 3);
+
+Console.WriteLine($"{total} | {string.Join(",", evens)}");

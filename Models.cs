@@ -1,0 +1,10 @@
+public record User(int Id, string Name, string Email);
+
+public static class Seed
+{
+    public static List<User> Users => new()
+    {
+        new User(1, "Ana", "ana@dev.io"),
+        new User(2, "Bruno", "bruno@dev.io"),
+    };
+}
