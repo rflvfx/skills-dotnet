@@ -79,3 +79,4 @@ public static class Seed
 - Update dependencies — iteration 18 (2019)
 - Update config — iteration 25 (2019)
 - Extend coverage — iteration 28 (2019)
+- Minor cleanup — iteration 34 (2019)
