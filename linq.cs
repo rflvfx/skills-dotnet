@@ -75,3 +75,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Improve error handling — iteration 42 (2019)
 - Tweak implementation — iteration 45 (2019)
 - Fix typo — iteration 48 (2019)
+- Fix edge case — iteration 51 (2019)
