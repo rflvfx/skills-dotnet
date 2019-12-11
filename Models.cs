@@ -81,3 +81,4 @@ public static class Seed
 - Extend coverage — iteration 28 (2019)
 - Minor cleanup — iteration 34 (2019)
 - Refactor module — iteration 36 (2019)
+- Add feature — iteration 40 (2019)
