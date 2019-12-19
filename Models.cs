@@ -72,3 +72,4 @@ public static class Seed
 - Add example — iteration 56 (2018)
 - Add validation — iteration 58 (2018)
 - Fix edge case — iteration 60 (2018)
+- Fix typo — iteration 1 (2019)
