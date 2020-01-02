@@ -96,3 +96,4 @@ app.Run();
 - Fix edge case — iteration 48 (2020)
 - Add tests — iteration 50 (2020)
 - Update docs — iteration 51 (2020)
+- Improve naming — iteration 53 (2020)
