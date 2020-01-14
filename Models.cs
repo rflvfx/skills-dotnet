@@ -87,3 +87,4 @@ public static class Seed
 - Improve error handling — iteration 1 (2020)
 - Update dependencies — iteration 2 (2020)
 - Document usage — iteration 3 (2020)
+- Minor cleanup — iteration 10 (2020)
