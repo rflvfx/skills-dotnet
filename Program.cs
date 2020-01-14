@@ -91,3 +91,4 @@ app.Run();
 - Tweak implementation — iteration 32 (2020)
 - Optimize performance — iteration 34 (2020)
 - Polish code — iteration 37 (2020)
+- Update config — iteration 39 (2020)
