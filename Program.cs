@@ -92,3 +92,4 @@ app.Run();
 - Optimize performance — iteration 34 (2020)
 - Polish code — iteration 37 (2020)
 - Update config — iteration 39 (2020)
+- Add tests — iteration 44 (2020)
