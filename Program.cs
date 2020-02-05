@@ -94,3 +94,4 @@ app.Run();
 - Update config — iteration 39 (2020)
 - Add tests — iteration 44 (2020)
 - Fix edge case — iteration 48 (2020)
+- Add tests — iteration 50 (2020)
