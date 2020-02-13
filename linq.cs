@@ -81,3 +81,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add validation — iteration 19 (2020)
 - Fix edge case — iteration 27 (2020)
 - Improve naming — iteration 30 (2020)
+- Refactor module — iteration 36 (2020)
