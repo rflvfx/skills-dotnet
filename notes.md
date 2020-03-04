@@ -81,3 +81,4 @@
 - Document usage — iteration 17 (2020)
 - Fix typo — iteration 18 (2020)
 - Update config — iteration 20 (2020)
+- Optimize performance — iteration 21 (2020)
