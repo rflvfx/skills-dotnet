@@ -77,3 +77,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix typo — iteration 48 (2019)
 - Fix edge case — iteration 51 (2019)
 - Add example — iteration 55 (2019)
+- Add helper — iteration 7 (2020)
