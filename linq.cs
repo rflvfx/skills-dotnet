@@ -85,3 +85,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix edge case — iteration 40 (2020)
 - Update docs — iteration 42 (2020)
 - Document usage — iteration 43 (2020)
+- Update docs — iteration 52 (2020)
