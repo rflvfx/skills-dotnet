@@ -79,3 +79,4 @@
 - Polish code — iteration 14 (2020)
 - Improve naming — iteration 15 (2020)
 - Document usage — iteration 17 (2020)
+- Fix typo — iteration 18 (2020)
