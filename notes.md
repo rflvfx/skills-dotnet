@@ -76,3 +76,4 @@
 - Extend coverage — iteration 9 (2020)
 - Improve naming — iteration 11 (2020)
 - Add tests — iteration 13 (2020)
+- Polish code — iteration 14 (2020)
