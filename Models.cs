@@ -94,3 +94,4 @@ public static class Seed
 - Update docs — iteration 29 (2020)
 - Polish code — iteration 33 (2020)
 - Document usage — iteration 38 (2020)
+- Add feature — iteration 45 (2020)
