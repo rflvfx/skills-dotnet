@@ -83,3 +83,4 @@
 - Update config — iteration 20 (2020)
 - Optimize performance — iteration 21 (2020)
 - Minor cleanup — iteration 22 (2020)
+- Extend coverage — iteration 23 (2020)
