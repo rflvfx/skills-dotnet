@@ -73,3 +73,4 @@
 - Polish code — iteration 58 (2019)
 - Extend coverage — iteration 5 (2020)
 - Improve error handling — iteration 8 (2020)
+- Extend coverage — iteration 9 (2020)
