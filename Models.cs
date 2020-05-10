@@ -93,3 +93,4 @@ public static class Seed
 - Update config — iteration 26 (2020)
 - Update docs — iteration 29 (2020)
 - Polish code — iteration 33 (2020)
+- Document usage — iteration 38 (2020)
