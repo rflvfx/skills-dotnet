@@ -97,3 +97,4 @@ app.Run();
 - Add tests — iteration 50 (2020)
 - Update docs — iteration 51 (2020)
 - Improve naming — iteration 53 (2020)
+- Extend coverage — iteration 54 (2020)
