@@ -95,3 +95,4 @@ public static class Seed
 - Polish code — iteration 33 (2020)
 - Document usage — iteration 38 (2020)
 - Add feature — iteration 45 (2020)
+- Fix lint warnings — iteration 46 (2020)
