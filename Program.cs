@@ -98,3 +98,4 @@ app.Run();
 - Update docs — iteration 51 (2020)
 - Improve naming — iteration 53 (2020)
 - Extend coverage — iteration 54 (2020)
+- Update dependencies — iteration 56 (2020)
