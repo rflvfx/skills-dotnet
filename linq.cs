@@ -84,3 +84,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Refactor module — iteration 36 (2020)
 - Fix edge case — iteration 40 (2020)
 - Update docs — iteration 42 (2020)
+- Document usage — iteration 43 (2020)
