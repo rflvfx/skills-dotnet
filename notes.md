@@ -71,3 +71,4 @@
 - Extend coverage — iteration 52 (2019)
 - Add validation — iteration 53 (2019)
 - Polish code — iteration 58 (2019)
+- Extend coverage — iteration 5 (2020)
