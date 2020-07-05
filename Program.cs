@@ -86,3 +86,4 @@ app.Run();
 - Add helper — iteration 4 (2020)
 - Add validation — iteration 6 (2020)
 - Polish code — iteration 12 (2020)
+- Update docs — iteration 24 (2020)
