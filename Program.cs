@@ -100,3 +100,4 @@ app.Run();
 - Extend coverage — iteration 54 (2020)
 - Update dependencies — iteration 56 (2020)
 - Update docs — iteration 58 (2020)
+- Polish code — iteration 60 (2020)
