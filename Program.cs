@@ -84,3 +84,4 @@ app.Run();
 - Fix typo — iteration 57 (2019)
 - Fix lint warnings — iteration 59 (2019)
 - Add helper — iteration 4 (2020)
+- Add validation — iteration 6 (2020)
