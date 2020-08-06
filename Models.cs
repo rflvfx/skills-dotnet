@@ -97,3 +97,4 @@ public static class Seed
 - Add feature — iteration 45 (2020)
 - Fix lint warnings — iteration 46 (2020)
 - Update docs — iteration 47 (2020)
+- Add example — iteration 59 (2020)
