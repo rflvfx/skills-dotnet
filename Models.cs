@@ -86,3 +86,4 @@ public static class Seed
 - Fix lint warnings — iteration 54 (2019)
 - Improve error handling — iteration 1 (2020)
 - Update dependencies — iteration 2 (2020)
+- Document usage — iteration 3 (2020)
