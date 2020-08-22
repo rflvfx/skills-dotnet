@@ -88,3 +88,4 @@ public static class Seed
 - Update dependencies — iteration 2 (2020)
 - Document usage — iteration 3 (2020)
 - Minor cleanup — iteration 10 (2020)
+- Fix typo — iteration 16 (2020)
