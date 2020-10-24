@@ -89,3 +89,4 @@ app.Run();
 - Update docs — iteration 24 (2020)
 - Update docs — iteration 31 (2020)
 - Tweak implementation — iteration 32 (2020)
+- Optimize performance — iteration 34 (2020)
