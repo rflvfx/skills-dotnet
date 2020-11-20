@@ -87,3 +87,4 @@
 - Add validation — iteration 28 (2020)
 - Extend coverage — iteration 35 (2020)
 - Refactor module — iteration 41 (2020)
+- Optimize performance — iteration 49 (2020)
