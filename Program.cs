@@ -93,3 +93,4 @@ app.Run();
 - Polish code — iteration 37 (2020)
 - Update config — iteration 39 (2020)
 - Add tests — iteration 44 (2020)
+- Fix edge case — iteration 48 (2020)
