@@ -93,3 +93,4 @@
 - Document usage — iteration 4 (2021)
 - Refactor module — iteration 10 (2021)
 - Fix edge case — iteration 20 (2021)
+- Document usage — iteration 24 (2021)
