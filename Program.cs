@@ -111,3 +111,4 @@ app.Run();
 - Add feature — iteration 33 (2021)
 - Improve naming — iteration 35 (2021)
 - Update config — iteration 49 (2021)
+- Refactor module — iteration 56 (2021)
