@@ -92,3 +92,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add feature — iteration 5 (2021)
 - Polish code — iteration 7 (2021)
 - Fix lint warnings — iteration 9 (2021)
+- Improve error handling — iteration 16 (2021)
