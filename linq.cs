@@ -88,3 +88,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Update docs — iteration 52 (2020)
 - Add example — iteration 57 (2020)
 - Minor cleanup — iteration 1 (2021)
+- Refactor module — iteration 2 (2021)
