@@ -94,3 +94,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Fix lint warnings — iteration 9 (2021)
 - Improve error handling — iteration 16 (2021)
 - Refactor module — iteration 17 (2021)
+- Improve naming — iteration 19 (2021)
