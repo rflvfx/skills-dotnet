@@ -99,3 +99,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Improve error handling — iteration 23 (2021)
 - Update docs — iteration 30 (2021)
 - Add helper — iteration 32 (2021)
+- Tweak implementation — iteration 37 (2021)
