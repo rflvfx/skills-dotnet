@@ -90,3 +90,4 @@
 - Optimize performance — iteration 49 (2020)
 - Update dependencies — iteration 55 (2020)
 - Polish code — iteration 3 (2021)
+- Document usage — iteration 4 (2021)
