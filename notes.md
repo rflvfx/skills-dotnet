@@ -100,3 +100,4 @@
 - Fix lint warnings — iteration 31 (2021)
 - Add validation — iteration 34 (2021)
 - Fix typo — iteration 39 (2021)
+- Update config — iteration 41 (2021)
