@@ -102,3 +102,4 @@
 - Fix typo — iteration 39 (2021)
 - Update config — iteration 41 (2021)
 - Update dependencies — iteration 42 (2021)
+- Add feature — iteration 46 (2021)
