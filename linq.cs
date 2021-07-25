@@ -95,3 +95,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Improve error handling — iteration 16 (2021)
 - Refactor module — iteration 17 (2021)
 - Improve naming — iteration 19 (2021)
+- Update dependencies — iteration 21 (2021)
