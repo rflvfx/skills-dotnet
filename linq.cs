@@ -106,3 +106,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add tests — iteration 48 (2021)
 - Polish code — iteration 51 (2021)
 - Add example — iteration 53 (2021)
+- Improve error handling — iteration 57 (2021)
