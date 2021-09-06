@@ -104,3 +104,4 @@ public static class Seed
 - Add feature — iteration 28 (2021)
 - Update config — iteration 36 (2021)
 - Improve error handling — iteration 40 (2021)
+- Fix typo — iteration 44 (2021)
