@@ -89,3 +89,4 @@
 - Refactor module — iteration 41 (2020)
 - Optimize performance — iteration 49 (2020)
 - Update dependencies — iteration 55 (2020)
+- Polish code — iteration 3 (2021)
