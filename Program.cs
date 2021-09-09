@@ -104,3 +104,4 @@ app.Run();
 - Polish code — iteration 6 (2021)
 - Optimize performance — iteration 8 (2021)
 - Improve naming — iteration 11 (2021)
+- Fix edge case — iteration 13 (2021)
