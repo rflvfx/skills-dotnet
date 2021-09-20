@@ -99,3 +99,4 @@ public static class Seed
 - Update docs — iteration 47 (2020)
 - Add example — iteration 59 (2020)
 - Add feature — iteration 12 (2021)
+- Fix lint warnings — iteration 15 (2021)
