@@ -99,3 +99,4 @@
 - Document usage — iteration 29 (2021)
 - Fix lint warnings — iteration 31 (2021)
 - Add validation — iteration 34 (2021)
+- Fix typo — iteration 39 (2021)
