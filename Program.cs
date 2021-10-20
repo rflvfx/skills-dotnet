@@ -101,3 +101,4 @@ app.Run();
 - Update dependencies — iteration 56 (2020)
 - Update docs — iteration 58 (2020)
 - Polish code — iteration 60 (2020)
+- Polish code — iteration 6 (2021)
