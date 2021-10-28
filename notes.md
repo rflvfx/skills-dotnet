@@ -104,3 +104,4 @@
 - Update dependencies — iteration 42 (2021)
 - Add feature — iteration 46 (2021)
 - Document usage — iteration 47 (2021)
+- Add feature — iteration 52 (2021)
