@@ -103,3 +103,4 @@
 - Update config — iteration 41 (2021)
 - Update dependencies — iteration 42 (2021)
 - Add feature — iteration 46 (2021)
+- Document usage — iteration 47 (2021)
