@@ -90,3 +90,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Minor cleanup — iteration 1 (2021)
 - Refactor module — iteration 2 (2021)
 - Add feature — iteration 5 (2021)
+- Polish code — iteration 7 (2021)
