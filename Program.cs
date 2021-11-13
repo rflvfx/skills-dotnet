@@ -108,3 +108,4 @@ app.Run();
 - Tweak implementation — iteration 14 (2021)
 - Improve error handling — iteration 18 (2021)
 - Update dependencies — iteration 26 (2021)
+- Add feature — iteration 33 (2021)
