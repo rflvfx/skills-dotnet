@@ -101,3 +101,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add helper — iteration 32 (2021)
 - Tweak implementation — iteration 37 (2021)
 - Minor cleanup — iteration 38 (2021)
+- Polish code — iteration 43 (2021)
