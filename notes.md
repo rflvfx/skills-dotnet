@@ -108,3 +108,4 @@
 - Polish code — iteration 55 (2021)
 - Update dependencies — iteration 59 (2021)
 - Add helper — iteration 60 (2021)
+- Optimize performance — iteration 1 (2022)
