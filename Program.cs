@@ -121,3 +121,4 @@ app.Run();
 - Add tests — iteration 20 (2022)
 - Update docs — iteration 21 (2022)
 - Polish code — iteration 26 (2022)
+- Fix typo — iteration 27 (2022)
