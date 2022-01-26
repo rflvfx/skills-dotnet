@@ -107,3 +107,4 @@ public static class Seed
 - Fix typo — iteration 44 (2021)
 - Fix typo — iteration 50 (2021)
 - Update docs — iteration 54 (2021)
+- Add helper — iteration 8 (2022)
