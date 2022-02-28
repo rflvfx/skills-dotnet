@@ -109,3 +109,4 @@
 - Update dependencies — iteration 59 (2021)
 - Add helper — iteration 60 (2021)
 - Optimize performance — iteration 1 (2022)
+- Document usage — iteration 2 (2022)
