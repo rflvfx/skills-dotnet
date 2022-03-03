@@ -109,3 +109,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Improve error handling — iteration 57 (2021)
 - Improve error handling — iteration 4 (2022)
 - Add example — iteration 5 (2022)
+- Add helper — iteration 6 (2022)
