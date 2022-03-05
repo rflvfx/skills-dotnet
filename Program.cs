@@ -124,3 +124,4 @@ app.Run();
 - Fix typo — iteration 27 (2022)
 - Improve naming — iteration 28 (2022)
 - Update dependencies — iteration 38 (2022)
+- Add example — iteration 44 (2022)
