@@ -117,3 +117,4 @@
 - Add feature — iteration 29 (2022)
 - Optimize performance — iteration 35 (2022)
 - Document usage — iteration 36 (2022)
+- Improve error handling — iteration 57 (2022)
