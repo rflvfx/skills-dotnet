@@ -118,3 +118,4 @@ public static class Seed
 - Update dependencies — iteration 30 (2022)
 - Add validation — iteration 31 (2022)
 - Add feature — iteration 32 (2022)
+- Add helper — iteration 34 (2022)
