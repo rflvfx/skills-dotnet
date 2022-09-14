@@ -116,3 +116,4 @@ public static class Seed
 - Extend coverage — iteration 22 (2022)
 - Improve naming — iteration 24 (2022)
 - Update dependencies — iteration 30 (2022)
+- Add validation — iteration 31 (2022)
