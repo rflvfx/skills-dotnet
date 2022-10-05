@@ -126,3 +126,4 @@ app.Run();
 - Update dependencies — iteration 38 (2022)
 - Add example — iteration 44 (2022)
 - Document usage — iteration 45 (2022)
+- Minor cleanup — iteration 54 (2022)
