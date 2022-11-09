@@ -115,3 +115,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Polish code — iteration 39 (2022)
 - Update config — iteration 40 (2022)
 - Extend coverage — iteration 41 (2022)
+- Improve error handling — iteration 42 (2022)
