@@ -122,3 +122,4 @@ app.Run();
 - Update docs — iteration 21 (2022)
 - Polish code — iteration 26 (2022)
 - Fix typo — iteration 27 (2022)
+- Improve naming — iteration 28 (2022)
