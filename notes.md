@@ -116,3 +116,4 @@
 - Refactor module — iteration 23 (2022)
 - Add feature — iteration 29 (2022)
 - Optimize performance — iteration 35 (2022)
+- Document usage — iteration 36 (2022)
