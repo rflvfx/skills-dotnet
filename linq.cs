@@ -128,3 +128,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add feature — iteration 24 (2023)
 - Refactor module — iteration 32 (2023)
 - Add validation — iteration 38 (2023)
+- Fix edge case — iteration 43 (2023)
