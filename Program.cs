@@ -141,3 +141,4 @@ app.Run();
 - Polish code — iteration 33 (2023)
 - Add example — iteration 34 (2023)
 - Update docs — iteration 35 (2023)
+- Fix typo — iteration 37 (2023)
