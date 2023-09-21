@@ -125,3 +125,4 @@
 - Add tests — iteration 14 (2023)
 - Update docs — iteration 16 (2023)
 - Extend coverage — iteration 18 (2023)
+- Improve naming — iteration 22 (2023)
