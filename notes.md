@@ -124,3 +124,4 @@
 - Fix lint warnings — iteration 13 (2023)
 - Add tests — iteration 14 (2023)
 - Update docs — iteration 16 (2023)
+- Extend coverage — iteration 18 (2023)
