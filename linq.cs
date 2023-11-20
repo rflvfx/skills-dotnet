@@ -127,3 +127,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Extend coverage — iteration 12 (2023)
 - Add feature — iteration 24 (2023)
 - Refactor module — iteration 32 (2023)
+- Add validation — iteration 38 (2023)
