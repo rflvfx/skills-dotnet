@@ -139,3 +139,4 @@ public static class Seed
 - Update dependencies — iteration 50 (2023)
 - Update docs — iteration 53 (2023)
 - Optimize performance — iteration 58 (2023)
+- Document usage — iteration 59 (2023)
