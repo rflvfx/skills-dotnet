@@ -136,3 +136,4 @@
 - Improve error handling — iteration 57 (2023)
 - Document usage — iteration 3 (2024)
 - Add helper — iteration 12 (2024)
+- Add validation — iteration 14 (2024)
