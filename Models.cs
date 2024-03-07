@@ -146,3 +146,4 @@ public static class Seed
 - Tweak implementation — iteration 15 (2024)
 - Update docs — iteration 16 (2024)
 - Extend coverage — iteration 21 (2024)
+- Fix lint warnings — iteration 24 (2024)
