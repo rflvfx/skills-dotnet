@@ -140,3 +140,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add feature — iteration 7 (2024)
 - Tweak implementation — iteration 8 (2024)
 - Optimize performance — iteration 10 (2024)
+- Fix edge case — iteration 18 (2024)
