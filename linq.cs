@@ -145,3 +145,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add helper — iteration 22 (2024)
 - Extend coverage — iteration 23 (2024)
 - Add validation — iteration 25 (2024)
+- Add example — iteration 31 (2024)
