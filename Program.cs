@@ -149,3 +149,4 @@ app.Run();
 - Add example — iteration 55 (2023)
 - Add helper — iteration 60 (2023)
 - Add validation — iteration 13 (2024)
+- Fix lint warnings — iteration 17 (2024)
