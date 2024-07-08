@@ -139,3 +139,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Minor cleanup — iteration 5 (2024)
 - Add feature — iteration 7 (2024)
 - Tweak implementation — iteration 8 (2024)
+- Optimize performance — iteration 10 (2024)
