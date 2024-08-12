@@ -142,3 +142,4 @@
 - Add example — iteration 32 (2024)
 - Fix typo — iteration 39 (2024)
 - Add tests — iteration 42 (2024)
+- Document usage — iteration 43 (2024)
