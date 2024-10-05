@@ -136,3 +136,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Extend coverage — iteration 1 (2024)
 - Fix lint warnings — iteration 2 (2024)
 - Add feature — iteration 4 (2024)
+- Minor cleanup — iteration 5 (2024)
