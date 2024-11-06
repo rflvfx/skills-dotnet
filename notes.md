@@ -134,3 +134,4 @@
 - Improve error handling — iteration 45 (2023)
 - Polish code — iteration 54 (2023)
 - Improve error handling — iteration 57 (2023)
+- Document usage — iteration 3 (2024)
