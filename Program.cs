@@ -167,3 +167,4 @@ app.Run();
 - Update docs — iteration 26 (2025)
 - Add helper — iteration 27 (2025)
 - Add example — iteration 35 (2025)
+- Tweak implementation — iteration 40 (2025)
