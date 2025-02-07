@@ -150,3 +150,4 @@
 - Tweak implementation — iteration 59 (2024)
 - Fix lint warnings — iteration 60 (2024)
 - Add feature — iteration 3 (2025)
+- Fix edge case — iteration 4 (2025)
