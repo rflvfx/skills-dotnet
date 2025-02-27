@@ -168,3 +168,4 @@ app.Run();
 - Add helper — iteration 27 (2025)
 - Add example — iteration 35 (2025)
 - Tweak implementation — iteration 40 (2025)
+- Update config — iteration 42 (2025)
