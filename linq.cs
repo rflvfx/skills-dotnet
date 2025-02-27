@@ -157,3 +157,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add example — iteration 1 (2025)
 - Add tests — iteration 5 (2025)
 - Add feature — iteration 11 (2025)
+- Fix edge case — iteration 17 (2025)
