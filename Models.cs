@@ -161,3 +161,4 @@ public static class Seed
 - Update dependencies — iteration 18 (2025)
 - Update dependencies — iteration 23 (2025)
 - Update docs — iteration 28 (2025)
+- Fix lint warnings — iteration 36 (2025)
