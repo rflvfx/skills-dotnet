@@ -155,3 +155,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add feature — iteration 53 (2024)
 - Add feature — iteration 54 (2024)
 - Add example — iteration 1 (2025)
+- Add tests — iteration 5 (2025)
