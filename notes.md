@@ -157,3 +157,4 @@
 - Update dependencies — iteration 22 (2025)
 - Improve naming — iteration 25 (2025)
 - Update docs — iteration 29 (2025)
+- Update config — iteration 30 (2025)
