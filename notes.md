@@ -156,3 +156,4 @@
 - Extend coverage — iteration 21 (2025)
 - Update dependencies — iteration 22 (2025)
 - Improve naming — iteration 25 (2025)
+- Update docs — iteration 29 (2025)
