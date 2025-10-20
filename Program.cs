@@ -164,3 +164,4 @@ app.Run();
 - Tweak implementation — iteration 12 (2025)
 - Fix edge case — iteration 13 (2025)
 - Minor cleanup — iteration 15 (2025)
+- Update docs — iteration 26 (2025)
