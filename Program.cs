@@ -165,3 +165,4 @@ app.Run();
 - Fix edge case — iteration 13 (2025)
 - Minor cleanup — iteration 15 (2025)
 - Update docs — iteration 26 (2025)
+- Add helper — iteration 27 (2025)
