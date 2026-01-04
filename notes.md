@@ -169,3 +169,4 @@
 - Tweak implementation — iteration 10 (2026)
 - Add tests — iteration 33 (2026)
 - Fix typo — iteration 34 (2026)
+- Fix typo — iteration 36 (2026)
