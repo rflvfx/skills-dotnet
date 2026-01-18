@@ -174,3 +174,4 @@ app.Run();
 - Minor cleanup — iteration 55 (2025)
 - Extend coverage — iteration 1 (2026)
 - Improve error handling — iteration 7 (2026)
+- Improve error handling — iteration 13 (2026)
