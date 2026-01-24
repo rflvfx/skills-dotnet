@@ -175,3 +175,4 @@ app.Run();
 - Extend coverage — iteration 1 (2026)
 - Improve error handling — iteration 7 (2026)
 - Improve error handling — iteration 13 (2026)
+- Fix typo — iteration 15 (2026)
