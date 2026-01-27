@@ -188,3 +188,4 @@ app.Run();
 - Tweak implementation — iteration 42 (2026)
 - Add feature — iteration 50 (2026)
 - Document usage — iteration 54 (2026)
+- Extend coverage — iteration 55 (2026)
