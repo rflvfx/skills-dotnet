@@ -175,3 +175,4 @@ public static class Seed
 - Add example — iteration 27 (2026)
 - Tweak implementation — iteration 28 (2026)
 - Minor cleanup — iteration 29 (2026)
+- Update docs — iteration 32 (2026)
