@@ -171,3 +171,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add validation — iteration 58 (2025)
 - Update dependencies — iteration 60 (2025)
 - Improve naming — iteration 6 (2026)
+- Add helper — iteration 8 (2026)
