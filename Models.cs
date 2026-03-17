@@ -172,3 +172,4 @@ public static class Seed
 - Update config — iteration 52 (2025)
 - Tweak implementation — iteration 2 (2026)
 - Add helper — iteration 22 (2026)
+- Add example — iteration 27 (2026)
