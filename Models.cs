@@ -174,3 +174,4 @@ public static class Seed
 - Add helper — iteration 22 (2026)
 - Add example — iteration 27 (2026)
 - Tweak implementation — iteration 28 (2026)
+- Minor cleanup — iteration 29 (2026)
