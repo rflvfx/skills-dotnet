@@ -166,3 +166,4 @@
 - Add example — iteration 3 (2026)
 - Fix edge case — iteration 4 (2026)
 - Update docs — iteration 5 (2026)
+- Tweak implementation — iteration 10 (2026)
