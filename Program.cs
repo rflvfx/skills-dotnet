@@ -180,3 +180,4 @@ app.Run();
 - Fix edge case — iteration 17 (2026)
 - Tweak implementation — iteration 18 (2026)
 - Fix lint warnings — iteration 20 (2026)
+- Add example — iteration 23 (2026)
