@@ -175,3 +175,4 @@ Console.WriteLine($"{total} | {string.Join(",", evens)}");
 - Add helper — iteration 9 (2026)
 - Tweak implementation — iteration 11 (2026)
 - Document usage — iteration 12 (2026)
+- Tweak implementation — iteration 14 (2026)
