@@ -172,3 +172,4 @@
 - Fix typo — iteration 36 (2026)
 - Document usage — iteration 41 (2026)
 - Fix edge case — iteration 49 (2026)
+- Add validation — iteration 57 (2026)
