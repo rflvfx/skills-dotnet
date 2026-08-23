@@ -177,3 +177,4 @@ app.Run();
 - Improve error handling — iteration 13 (2026)
 - Fix typo — iteration 15 (2026)
 - Add feature — iteration 16 (2026)
+- Fix edge case — iteration 17 (2026)
