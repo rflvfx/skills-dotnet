@@ -164,3 +164,4 @@
 - Update dependencies — iteration 56 (2025)
 - Polish code — iteration 59 (2025)
 - Add example — iteration 3 (2026)
+- Fix edge case — iteration 4 (2026)
