@@ -172,3 +172,4 @@ app.Run();
 - Update dependencies — iteration 46 (2025)
 - Improve error handling — iteration 49 (2025)
 - Minor cleanup — iteration 55 (2025)
+- Extend coverage — iteration 1 (2026)
