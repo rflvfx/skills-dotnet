@@ -189,3 +189,4 @@ app.Run();
 - Add feature — iteration 50 (2026)
 - Document usage — iteration 54 (2026)
 - Extend coverage — iteration 55 (2026)
+- Refactor module — iteration 56 (2026)
