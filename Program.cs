@@ -173,3 +173,4 @@ app.Run();
 - Improve error handling — iteration 49 (2025)
 - Minor cleanup — iteration 55 (2025)
 - Extend coverage — iteration 1 (2026)
+- Improve error handling — iteration 7 (2026)
